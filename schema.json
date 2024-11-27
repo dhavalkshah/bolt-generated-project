@@ -1,0 +1,12 @@
+{
+      "@context": "https://schema.org",
+      "@type": "EducationalOrganization",
+      "name": "The Rise Effect",
+      "description": "Educational initiative providing free education and skill development to underprivileged students",
+      "address": {
+        "@type": "Witty Internation School, Chikoowadi, Borivali",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "India"
+      }
+    }

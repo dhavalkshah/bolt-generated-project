@@ -1,5 +1,4 @@
 module.exports = {
-      experimental: {
-        serverActions: true
-      }
-    };
+      // Next.js configuration
+      // ...
+    }
